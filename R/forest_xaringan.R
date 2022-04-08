@@ -13,15 +13,15 @@ forest_xaringan <- function(){
     link_color = olivedrab,
     text_bold_color = forestgreen,
     code_highlight_color = olivedrab,
-    code_inline_color = olivedrab,
+    code_inline_color = gray,
     code_inline_background_color = lightgray,
     title_slide_background_color = white,
     title_slide_text_color = forestgreen,
     footnote_color = forestgreen,
     background_image = "https://github.com/dbrby/dbmisc/blob/master/img/fr_logo.png?raw=true",
     background_position = "right top",
-    background_size = "20% 20%",
-    title_slide_background_image = "https://github.com/dbrby/dbmisc/blob/master/img/fr_logo.png?raw=true",
+    background_size = "10% 10%",
+    title_slide_background_image = "https://github.com/dbrby/dbmisc/blob/master/img/fr_logo2.png?raw=true",
     title_slide_background_size = "40% 40%",
     title_slide_background_position = "left bottom"
   ) 
