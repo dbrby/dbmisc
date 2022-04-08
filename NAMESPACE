@@ -3,6 +3,7 @@
 export(add_logo)
 export(caption_db)
 export(forest_xaringan)
+export(theme_forest)
 import(ggplot2)
 importFrom(grid,grid.raster)
 importFrom(magick,image_read)
