@@ -20,7 +20,7 @@ forest_xaringan <- function(){
     footnote_color = forestgreen,
     background_image = "https://github.com/dbrby/dbmisc/blob/master/img/fr_logo.png?raw=true",
     background_position = "right top",
-    background_size = "25% 25%",
+    background_size = "20% 20%",
     title_slide_background_image = "https://github.com/dbrby/dbmisc/blob/master/img/fr_logo.png?raw=true",
     title_slide_background_size = "40% 40%",
     title_slide_background_position = "left bottom"
