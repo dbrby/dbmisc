@@ -1,0 +1,15 @@
+Package: dbmisc
+Title: dbmisc
+Version: 0.0.0.9000
+Authors@R: 
+    person("Daniel", "Braby", , "danbraby@icloud.com", role = c("cre", "aut"))
+Description: This package contains functions and templates that I use for
+    my work.
+License: {{ License }}
+URL: http://this
+BugReports: http://that
+Imports: 
+    xaringan,
+    xaringanthemer
+Encoding: UTF-8
+RoxygenNote: 7.1.2
