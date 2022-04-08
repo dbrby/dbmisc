@@ -10,8 +10,8 @@
 add_logo <- function() {
   logo <- image_read("https://github.com/dbrby/dbmisc/blob/master/img/fr_logo2.png?raw=true")
   
-  grid::grid.raster(logo, x = 0.09, y = -0.025, just = c('left', 'bottom'), 
-                    width = unit(1.5, 'inches'))
+  grid::grid.raster(logo, x = 0.03, y = -0.027, just = c('left', 'bottom'), 
+                    width = unit(1, 'inches'))
 
   
   
