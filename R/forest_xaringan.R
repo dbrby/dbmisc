@@ -19,7 +19,8 @@ forest_xaringan <- function(){
     title_slide_text_color = forestgreen,
     footnote_color = forestgreen,
     background_image = "https://github.com/dbrby/dbmisc/blob/master/img/fr_logo.png?raw=true",
-    background_position = "right top"
+    background_position = "right top",
+    background_size = "10% 10%"
   ) 
 }
 
