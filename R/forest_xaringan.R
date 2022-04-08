@@ -14,7 +14,7 @@ forest_xaringan <- function(){
     text_bold_color = forestgreen,
     code_highlight_color = olivedrab,
     code_inline_color = gray,
-    code_inline_background_color = lightgray,
+    code_inline_background_color = olivedrab,
     title_slide_background_color = white,
     title_slide_text_color = forestgreen,
     footnote_color = forestgreen,
