@@ -5,7 +5,7 @@
 
 forestgreen = "#006937"
 
-olivedrab = "#4a70a"
+olivedrab = "#64a70a"
 
 darkslateblue = "#67257f"
 
