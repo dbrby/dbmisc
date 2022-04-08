@@ -3,7 +3,6 @@
 #' This file contains a pre-designated theme which can be easily called as a function
 #'
 #' @importFrom xaringanthemer style_xaringan
-#' @importFrom xaringanExtra use_logo
 #' @export
 
 forest_xaringan <- function(){
