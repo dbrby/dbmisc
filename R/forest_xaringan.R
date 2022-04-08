@@ -3,21 +3,27 @@
 #' This file contains a pre-designated theme which can be easily called as a function
 #'
 #' @importFrom xaringanthemer style_xaringan
+#' @importFrom xaringanExtra use_logo
+#' @importFrom xaringanExtra css_position
 #' @export
 
 forest_xaringan <- function(){
   style_xaringan(
     text_color = darkslategray,
-    header_color = c(darkslateblue, forestgreen, olivedrab),
+    header_color = darkslateblue,
     background_color = white,
     link_color = olivedrab,
     text_bold_color = forestgreen,
     code_highlight_color = olivedrab,
     code_inline_color = olivedrab,
     code_inline_background_color = gray,
-    title_slide_background_color = olivedrab,
+    title_slide_background_color = white,
     title_slide_text_color = forestgreen,
     footnote_color = forestgreen
-  )
+  ) |>
+    use_logo(
+      image_url = "https://github.com/dbrby/dbmisc/blob/master/img/fr_logo.png?raw=true",
+      position = css_position(top = "1em", right = "1em")
+    )
 }
 
