@@ -8,7 +8,7 @@
 forest_xaringan <- function(){
   style_xaringan(
     text_color = darkslategray,
-    header_color = darkslateblue,
+    header_color = c(darkslateblue, forestgreen, olivedrab),
     background_color = white,
     link_color = olivedrab,
     text_bold_color = forestgreen,

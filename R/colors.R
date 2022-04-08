@@ -3,7 +3,6 @@
 #' This file contains the colours we will use for our ggplot2 and xaringan theme
 #'
 
-
 forestgreen = "#006937"
 
 olivedrab = "#4a70a"
@@ -15,3 +14,5 @@ white = "#ffffff"
 darkslategray = "#333333"
 
 gray = "#956b9c"
+
+lightgray = "#D3D3D3"
