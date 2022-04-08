@@ -2,9 +2,9 @@
 #'
 #' Use magick to add logo to a data viz
 #'
-#'@importFrom magick image_read
-#'@importFrom grid grid.raster
-#'@export
+#' @importFrom magick image_read
+#' @importFrom grid grid.raster
+#' @export
 
 
 add_logo <- function() {
