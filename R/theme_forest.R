@@ -1,7 +1,8 @@
 #' Custom ggplot Theme in Forest Research Flavor.
 #'
 #' This is a minimal change to the minimal theme of ggplot2, to position text elements and add some colour.
-#'
+#' @import ggplot2
+#'@export
 
 theme_forest <- function() {
   theme_minimal() %+replace%

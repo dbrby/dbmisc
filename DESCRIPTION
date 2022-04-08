@@ -10,6 +10,8 @@ URL: http://this
 BugReports: http://that
 Imports: 
     xaringan,
-    xaringanthemer
+    xaringanthemer,
+    ggplot2,
+    magick
 Encoding: UTF-8
 RoxygenNote: 7.1.2
