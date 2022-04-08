@@ -4,6 +4,9 @@
 #' @import ggplot2
 #' @export
 
+
+caption_db <- labs(caption = "Forest Research\n Daniel Braby\n Higher Statistical Officer")
+
 theme_forest <- function() {
   theme_minimal() %+replace%
     
